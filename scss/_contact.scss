@@ -1,0 +1,51 @@
+.contact{
+    overflow: hidden;
+    .contact-images{
+        padding-left: 13em;
+    }
+    .contact-svg{
+        width: 1088px;
+       height: 864px;
+       fill: $dustypink;
+       position: absolute;
+      
+    }
+
+.contact-img{
+    background-image: url(../images/contact-img.png);
+    width: 967px;
+    height: 1030px;
+    background-size: contain;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    }
+
+    .round{
+        width: 227px;
+        height: 228px;
+        background-color: $dustypink;
+        margin-left: 6em;
+        margin-top: 6em;
+    }
+    .form-box {
+        max-width: 600px;
+        padding: 30px;
+        background-color: $white;
+        border:1px solid $white;
+        position: relative;
+        bottom: 400px;
+        left: 80px;
+      }
+      .form-control{
+        background-color: $lightpink;
+        border: none;
+        box-shadow: none;
+        
+      }
+      .contact-btn{
+        width: 100%;
+        
+      }
+ 
+}

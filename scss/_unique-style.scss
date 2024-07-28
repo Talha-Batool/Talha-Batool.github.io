@@ -1,0 +1,39 @@
+.unique-style-content{
+    h5{
+        color: $pink;
+        font-size: 2.25rem;
+
+    }
+}
+.unique-style-svg{
+    width: 566px;
+    height: 700px;
+    position: absolute;
+    fill: $pinky;
+  
+}
+.unique-style-img{
+    height: 566px;
+    width: 623px;
+    background-image: url(../images/unique-style.png);
+    background-size: contain;
+    position: relative;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.icon-bg{
+    width: 71px;
+    height: 71px;
+    background-color: $pink;
+    padding: 16px;
+   
+}
+.icon-image{
+    width: 40px;
+    height: 40px;
+}
+.mt-8{
+    margin-top: 8em;
+    margin-bottom: 4em;
+
+}

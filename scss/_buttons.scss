@@ -1,0 +1,45 @@
+.button-default{
+    
+    font-size: 18px;
+    font-weight: normal;
+    text-transform: uppercase;
+    color: $white;
+    
+}
+.white-btn,
+.white-btn:hover{
+    @extend .button-default;
+    background-color: $white;
+    color: $blue;
+   
+    
+}
+
+.orange-btn,
+.orange-btn:hover{
+    @extend .button-default;
+    background-color: $orange;
+
+}
+.lightblue-btn,
+.lightblue-btn:hover{
+    @extend .button-default;
+    background-color: $lightblue;
+
+}
+.brown-btn,
+.brown-btn:hover{
+    @extend .button-default;
+    background-color: $brown;
+
+}
+.pink-btn,
+.pink-btn:hover{
+    @extend .button-default;
+    background-color: $pink;
+
+
+}
+
+
+

@@ -1,0 +1,345 @@
+.button-default, .pink-btn,
+.pink-btn:hover, .brown-btn,
+.brown-btn:hover, .lightblue-btn,
+.lightblue-btn:hover, .orange-btn,
+.orange-btn:hover, .white-btn,
+.white-btn:hover {
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.white-btn,
+.white-btn:hover {
+  background-color: #fff;
+  color: #267AA4;
+}
+
+.orange-btn,
+.orange-btn:hover {
+  background-color: #EB8A51;
+}
+
+.lightblue-btn,
+.lightblue-btn:hover {
+  background-color: #81c2e2;
+}
+
+.brown-btn,
+.brown-btn:hover {
+  background-color: #cf7500;
+}
+
+.pink-btn,
+.pink-btn:hover {
+  background-color: #F1818A;
+}
+
+.bg {
+  background-color: #000;
+}
+
+.offcanvas-body ul {
+  padding-left: 3em;
+  list-style: none;
+}
+.offcanvas-body ul li {
+  color: #fff;
+}
+
+.hamburger:hover {
+  color: #F1818A;
+}
+
+.banner-images {
+  fill: #fef2f3 !important;
+  padding: 5em 6em;
+}
+
+.u-svg-content {
+  position: absolute;
+  width: 860px;
+  height: 740px;
+  margin: 0 auto;
+}
+
+.banner-img {
+  height: 742px;
+  width: 742px;
+  background-image: url(../images/banner.png);
+  display: block;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.pink-svg {
+  width: 720px;
+  height: 720px;
+  position: absolute;
+  top: 482px;
+  left: 0px;
+  bottom: 0px;
+  right: 59px;
+  margin-top: 10px;
+  color: #fef2f3 !important;
+}
+
+.svg-content {
+  margin: -250px 206px 284px 305px;
+  width: 40%;
+}
+.svg-content h3 {
+  color: #F1818A;
+  font-size: 2.6em;
+}
+.svg-content p {
+  font-size: 17px;
+  line-height: 1.6;
+}
+.svg-content .Freepik {
+  font-size: 18px;
+}
+
+.simple-steps {
+  height: 650px;
+  background-color: #fef2f3;
+  overflow: hidden;
+}
+.simple-steps .simple-steps-content {
+  padding: 3em 0;
+}
+.simple-steps .simple-steps-content h2 {
+  color: #F1818A;
+  font-size: 4em;
+}
+.simple-steps .simple-steps-content .simple-steps-text {
+  font-size: 18px;
+  color: #808080;
+}
+
+.drink-water {
+  width: 17em;
+  height: 24em;
+  background-color: #fff;
+  padding: 30px;
+  border: solid #F1818A;
+  border-radius: 15px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.drink-water .first-column .bg-pink {
+  background-color: #fef2f3;
+  width: 50px;
+  height: 50px;
+}
+.drink-water .first-column h6 {
+  color: #F1818A;
+}
+.drink-water .first-column h3 {
+  color: #fef2f3;
+}
+.drink-water h3 {
+  color: #F1818A;
+}
+.drink-water .col-content {
+  color: #808080;
+  font-size: 17px;
+}
+
+.style-content {
+  padding: 7em 0;
+}
+.style-content h4 {
+  color: #F1818A;
+}
+.style-content .Duis-aute {
+  font-size: 17px;
+}
+
+.style-svg {
+  width: 476px;
+  height: 515px;
+  fill: #FBD8DB;
+}
+
+.style-img {
+  background-image: url(../images/refresh-style.png);
+  width: 540px;
+  height: 476px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  -o-object-fit: contain;
+     object-fit: contain;
+  background-size: contain;
+  position: relative;
+}
+
+.rounded-background {
+  width: 132px;
+  height: 132px;
+  background-color: #F7B8BE;
+}
+
+.top-fashion {
+  height: 1300px;
+  background-color: #fef2f3;
+  margin: 5em 0;
+}
+.top-fashion .pink-ball {
+  width: 180px;
+  height: 180px;
+  background-color: #F7B8BE;
+  margin: 0 300px 0 856px;
+}
+.top-fashion .tips-img {
+  margin-left: 10em;
+}
+.top-fashion .top-fashion-svg {
+  width: 689px;
+  height: 657px;
+  position: absolute;
+  fill: #FBD8DB;
+}
+.top-fashion .top-tips-img {
+  width: 600px;
+  height: 653px;
+  display: block;
+  background-image: url(../images/top-fashion.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: contain;
+}
+.top-fashion .top-fashion-content h2 {
+  font-size: 4.5em;
+  color: #F1818A;
+}
+
+.unique-style-content h5 {
+  color: #F1818A;
+  font-size: 2.25rem;
+}
+
+.unique-style-svg {
+  width: 566px;
+  height: 700px;
+  position: absolute;
+  fill: #F7B8BE;
+}
+
+.unique-style-img {
+  height: 566px;
+  width: 623px;
+  background-image: url(../images/unique-style.png);
+  background-size: contain;
+  position: relative;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.icon-bg {
+  width: 71px;
+  height: 71px;
+  background-color: #F1818A;
+  padding: 16px;
+}
+
+.icon-image {
+  width: 40px;
+  height: 40px;
+}
+
+.mt-8 {
+  margin-top: 8em;
+  margin-bottom: 4em;
+}
+
+.beauty-routine {
+  height: 1100px;
+  background-color: #fef2f3;
+}
+.beauty-routine .beauty-routine-svg {
+  width: 450px;
+  height: 411px;
+  position: absolute;
+  fill: #FBD8DB;
+}
+.beauty-routine .beauty-routine-img {
+  background-image: url(../images/beauty-routine.png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  width: 457px;
+  height: 431px;
+  position: relative;
+  background-size: contain;
+}
+.beauty-routine .py-7 {
+  padding: 7em 0;
+}
+.beauty-routine .beauty-routine-svg2 {
+  width: 456px;
+  height: 408px;
+  position: absolute;
+  fill: #FBD8DB;
+}
+.beauty-routine .beauty-routine-img2 {
+  background-image: url(../images/beauty-routine\(2\).png);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  width: 492px;
+  height: 387px;
+  position: relative;
+  background-size: contain;
+}
+.beauty-routine .beauty-routine-content {
+  color: #A8A6A7;
+}
+
+.contact {
+  overflow: hidden;
+}
+.contact .contact-images {
+  padding-left: 13em;
+}
+.contact .contact-svg {
+  width: 1088px;
+  height: 864px;
+  fill: #FBD8DB;
+  position: absolute;
+}
+.contact .contact-img {
+  background-image: url(../images/contact-img.png);
+  width: 967px;
+  height: 1030px;
+  background-size: contain;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.contact .round {
+  width: 227px;
+  height: 228px;
+  background-color: #FBD8DB;
+  margin-left: 6em;
+  margin-top: 6em;
+}
+.contact .form-box {
+  max-width: 600px;
+  padding: 30px;
+  background-color: #fff;
+  border: 1px solid #fff;
+  position: relative;
+  bottom: 400px;
+  left: 80px;
+}
+.contact .form-control {
+  background-color: #fef2f3;
+  border: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+.contact .contact-btn {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */

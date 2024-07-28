@@ -1,0 +1,44 @@
+.beauty-routine{
+    height: 1100px;
+    background-color: $lightpink;
+
+    .beauty-routine-svg{
+        width: 450px;
+        height: 411px;
+        position: absolute;
+        fill: $dustypink;
+    }
+    .beauty-routine-img{
+        background-image: url(../images/beauty-routine.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        width: 457px;
+        height: 431px;
+        position: relative;
+        background-size: contain;
+    }
+    .py-7{
+        padding: 7em 0;
+    }
+    .beauty-routine-svg2{
+        width: 456px;
+        height: 408px;
+        position: absolute;
+        fill: $dustypink;
+    }
+    .beauty-routine-img2{
+        background-image: url(../images/beauty-routine\(2\).png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        width: 492px;
+        height: 387px;
+        position: relative;
+        background-size: contain;
+
+    }
+    .beauty-routine-content{
+        color: $gray;
+      
+    }
+
+}

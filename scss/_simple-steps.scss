@@ -1,0 +1,53 @@
+.simple-steps{
+    height:650px;
+    background-color: $lightpink;
+    overflow: hidden;
+    .simple-steps-content{
+        padding: 3em 0;
+        h2{
+            color: $pink;
+            font-size: 4em;
+        }
+        .simple-steps-text{
+            font-size: 18px;
+            color: $grey;
+        }
+    }
+}
+.drink-water{
+   width: 17em;
+   height: 24em;
+   background-color: $white;
+   padding: 30px;
+   border: solid $pink;
+   border-radius: 15px;
+   box-sizing: border-box;
+  
+   
+    .first-column{
+      
+      
+        .bg-pink{
+            background-color: $lightpink;
+            width: 50px;
+            height: 50px;    
+           }
+           h6{
+            color: $pink;
+           }
+           h3{
+            color: $lightpink;
+           }
+
+    }
+    h3{
+        color: $pink;
+       }
+   .col-content{
+    color: $grey;
+    font-size: 17px;
+   
+   }
+  
+}
+

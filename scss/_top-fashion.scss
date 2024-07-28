@@ -1,0 +1,39 @@
+.top-fashion{
+    height: 1300px;
+    background-color: $lightpink;
+    margin: 5em 0;
+
+    .pink-ball{
+        width: 180px;
+        height: 180px;
+        background-color: $pinky;
+        margin: 0 300px 0 856px;
+        
+    }
+    .tips-img{
+        margin-left: 10em;
+    }
+    .top-fashion-svg{
+        width: 689px;
+        height: 657px;
+        position: absolute;
+        fill: $dustypink;
+       
+    }
+    .top-tips-img{
+        width: 600px;
+        height: 653px;
+        display: block;
+        background-image: url(../images/top-fashion.png);
+        background-position: 50% 50%;
+        background-repeat: no-repeat;
+        position: relative;
+        background-size: contain;
+    }
+    .top-fashion-content{
+        h2{
+            font-size: 4.50em;
+            color: $pink;
+        }
+    }
+}

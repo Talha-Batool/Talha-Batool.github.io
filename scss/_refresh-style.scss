@@ -1,0 +1,32 @@
+.style-content{
+    padding: 7em 0;
+    h4{
+        color: $pink;
+    }
+    .Duis-aute{
+        font-size: 17px;
+    }
+}
+.style-svg{
+    width: 476px;
+    height: 515px;
+    fill: $dustypink;
+}
+
+.style-img{
+    background-image: url(../images/refresh-style.png);
+    width: 540px;
+    height: 476px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    object-fit: contain;
+    background-size: contain;
+    position: relative;
+
+}
+.rounded-background{
+    width: 132px;
+    height: 132px;
+   background-color: $pinky;
+  
+}
